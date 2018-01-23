@@ -1,0 +1,2 @@
+Event: Have lunch with Bill Gates|Date: Monday 27th March|Time: 13:00|Location: McDonald's
+Event: Be assessed by TA|Date: Monday 20th March|Time: 09:00|Location: Lab
